@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Anand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+
+<p align="center">
+  <a href="https://github.com/raunak-dev-edu/raunak-dev-edu"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+From+Jaipur Engineering College+Jaipur,;Passionate+Full+Stack+Web+Developer,;Creating+Complex+and+Innovative+Solutions,;Constant+Learner+and+Tech+Enthusiast!"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush751&label=Profile%20views&color=0e75b6&style=flat" alt="aayush751" /> </p>
 
