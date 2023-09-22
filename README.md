@@ -5,6 +5,26 @@
 
 <p align="left"> <a href="https://twitter.com/aayush751" target="blank"><img src="https://img.shields.io/twitter/follow/aayush751?logo=twitter&style=for-the-badge" alt="aayush751" /></a> </p>
 
+### 💻 About me
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<ul>
+  <li>
+    🌱 I’m currently learning and experimenting with various programming languages and frameworks.
+  </li>
+  <li>
+    📽️ I’m constantly working on personal projects to enhance my skills and expand my knowledge.
+  </li>
+  <li>
+    👯 I’m looking to collaborate on open-source projects and contribute to the developer community.
+  </li>
+  <li>
+    🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches.
+  </li>
+  <li>
+   📧 Ask me about web development, data structures, algorithms, or anything related to software engineering. I'm here to help!
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aayush751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush751" height="30" width="40" /></a>
