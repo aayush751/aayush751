@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/aayush751" target="blank"><img src="https://img.shields.io/twitter/follow/aayush751?logo=twitter&style=for-the-badge" alt="aayush751" /></a> </p>
 
 ### 💻 About me
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <ul>
   <li>
     🌱 I’m currently learning and experimenting with various programming languages and frameworks.
